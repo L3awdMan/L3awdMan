@@ -1,5 +1,8 @@
-[![UwU Push Swap](https://raw.githubusercontent.com/L3awdMan/UwU_Push_Swap/main/img/UwU%20push%20swap%20banner.png)](https://github.com/L3awdMan/UwU_Push_Swap)
+<div align="center">
+  
+ [![UwU Push Swap](https://raw.githubusercontent.com/L3awdMan/UwU_Push_Swap/main/img/UwU%20push%20swap%20banner.png)](https://github.com/L3awdMan/UwU_Push_Swap)
 
+</div>
 <!--
 **L3awdMan/L3awdMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
