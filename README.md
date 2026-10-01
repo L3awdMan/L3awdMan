@@ -13,6 +13,15 @@
 
 </div>
 
+<div align="center">
+
+  <a href="https://github.com/L3awdMan/CUB3D">
+    <img src="https://raw.githubusercontent.com/L3awdMan/CUB3D/main/img/Bocal_Blaster_Banner.png"
+         alt="Bocal Blaster Banner" />
+  </a>
+
+</div>
+
 <!--
 **L3awdMan/L3awdMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
