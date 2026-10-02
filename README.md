@@ -15,6 +15,15 @@
 
 <div align="center">
 
+  <a href="https://github.com/L3awdMan/MiniDevil">
+    <img src="https://raw.githubusercontent.com/L3awdMan/MiniDevil/main/doc/theme/Minidevil_banner.gif"
+         alt="MiniDevil Banner" />
+  </a>
+
+</div>
+
+<div align="center">
+
   <a href="https://github.com/L3awdMan/CUB3D">
     <img src="https://raw.githubusercontent.com/L3awdMan/CUB3D/main/img/Bocal_Blaster_Banner.png"
          alt="Bocal Blaster Banner" />
